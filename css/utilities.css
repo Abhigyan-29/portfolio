@@ -141,6 +141,10 @@ h2::selection {
   
   background: url(../assets/project/2.avif) center center/cover;
 }
+.card:nth-child(4) {
+  
+  background: url(../assets/project/4.avif) center center/cover;
+}
 
 /* Media Queries */
 @media (max-width: 768px) {
