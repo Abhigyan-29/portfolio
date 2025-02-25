@@ -135,11 +135,11 @@ h2::selection {
 }
 .card:nth-child(2) {
   
-  background: url(../assets/project/2.avif) center center/cover;
+  background: url(../assets/project/3.avif) center center/cover;
 }
 .card:nth-child(3) {
   
-  background: url(../assets/project/3.avif) center center/cover;
+  background: url(../assets/project/2.avif) center center/cover;
 }
 
 /* Media Queries */
