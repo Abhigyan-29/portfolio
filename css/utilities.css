@@ -134,11 +134,11 @@ h2::selection {
   background: url(../assets/project/project-one.png) center center/cover;
 }
 .card:nth-child(2) {
-  filter: blur(5px);
+  
   background: url(../assets/project/2.avif) center center/cover;
 }
 .card:nth-child(3) {
-  filter: blur(5px);
+  
   background: url(../assets/project/3.avif) center center/cover;
 }
 
